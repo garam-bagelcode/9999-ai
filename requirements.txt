@@ -1,0 +1,17 @@
+# core
+langchain-core==0.3.72
+langchain-community==0.3.27
+langsmith>=0.3.45
+langchain==0.3.27
+langchain-neo4j==0.5.0
+
+
+# graph / vector
+neo4j==5.28.0
+graphdatascience>=1.15.1
+neo4j-graphrag[openai]==1.9.0
+
+# utils
+python-dotenv==1.0.1
+tiktoken>=0.7,<1
+pandas==2.2.2
